@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50592630648",
+    "project_id": "foodbridge-bbf97",
+    "storage_bucket": "foodbridge-bbf97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50592630648:android:de73874c73a5bc51e42a8d",
+        "android_client_info": {
+          "package_name": "com.example.food_bridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Su4n39mZyOOv4jpqyZ0PUUwdKfhTSZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
