@@ -1,16 +1,8 @@
-# first_app
+# Food Bridge 
 
-A new Flutter project.
+**Food Bridge** is a mobile application designed to help in reducing food waste by connecting donors (individuals or restaurants with surplus food) with recipients (charities or people in need).  
+This app aims to streamline the process of food sharing and make it more accessible and efficient.
 
-## Getting Started
+This application was developed as part of our **graduation project**.  
+It demonstrates our technical and social responsibility efforts to contribute to solving food surplus challenges in our community.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
